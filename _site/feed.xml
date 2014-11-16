@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mohammed A. Imran</title>
+    <description>Application Security Guy, speaker, Null Singapore Leader.</description>
+    <link>secfigo.com</link>
+    <atom:link href="secfigo.com/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Finally here !</title>
+        <description>&lt;p&gt;Blogging was on my todo list for a very long long period, but either i was lazy or didn&amp;#39;t have time to write.&lt;/p&gt;
+
+&lt;p&gt;I intend to &lt;a href=&quot;http://www.secfigo.com&quot;&gt;blog over here&lt;/a&gt; now to share my talks, workshop content and anything which doesnt fit on &lt;a href=&quot;http://www.slideshare.net/secfigo&quot;&gt;my slideshare account&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;-Imran&lt;/p&gt;
+</description>
+        <pubDate>Fri, 03 Apr 2015 00:00:00 -0700</pubDate>
+        <link>secfigo.com/bring-on/</link>
+        <guid isPermaLink="true">secfigo.com/bring-on/</guid>
+      </item>
+    
+  </channel>
+</rss>
