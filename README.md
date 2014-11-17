@@ -1,6 +1,6 @@
 # secfigo.com
 
-[**Secfigo**](secfigo.com) is my personal website, where i blog, share my opinions on security, community and life
+[**Secfigo**](http://www.secfigo.com) is my personal website, where i blog, share my opinions on security, community and life
 
 ##### Contact Me:
 
